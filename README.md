@@ -3,7 +3,7 @@
 </h1>
 <p align="center">
     <img alt="Plataforma" src="https://img.shields.io/static/v1?label=Plataforma&message=PC&color=306998&labelColor=FFD43B">
-    <img alt="Fractals" src="https://img.shields.io/static/v1?label=Version&message=2.1.7&color=000000&labelColor=f52536">
+    <img alt="Fractals" src="https://img.shields.io/static/v1?label=Version&message=2.2.9&color=000000&labelColor=f52536">
     <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/NyctibiusVII/Fractals?color=000000&labelColor=90f525">
     <a href="https://github.com/NyctibiusVII/Fractals/blob/main/LICENSE">
         <img alt="Licença" src="https://img.shields.io/static/v1?label=License&message=MIT&color=000000&labelColor=5b24f2">
