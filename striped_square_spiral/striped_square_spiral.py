@@ -44,12 +44,3 @@ def square_spiral(x: int, y: int, direction: int, size: int):
 
 square_spiral(-6, 6, 0, 1320)
 turtle.done()
-    # if size <= alpha: return
-    # if index > 1: turtle.color('black')
-
-    # angle_radians = math.atan(alpha / size)
-    # angle_degrees = math.degrees(angle_radians)
-    # draw_square(size)
-    # turtle.forward(alpha)
-    # turtle.left(angle_degrees)
-    # striped_square_spiral(size-alpha, index+1)
